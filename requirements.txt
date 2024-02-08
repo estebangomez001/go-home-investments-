@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-matplotlib
+sudo pip install -e git+git://github.com/matplotlib/matplotlib.git#egg=matplotlib
