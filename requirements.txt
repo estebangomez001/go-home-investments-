@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-matplotlib==3.4.3
+matplotli
